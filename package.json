@@ -18,5 +18,6 @@
   "homepage": "https://github.com/weslley-nascimento/video-maker#readme",
   "dependencies": {
     "readline-sync": "^1.4.10"
-  }
+  },
+  "devDependencies": {}
 }
